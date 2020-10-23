@@ -1,7 +1,7 @@
 
 ## Github Jobs API kullanılarak geliştirilmiş bir iş ilan uygulamasıdır.
 
-CANLI: [LINK](https://furkancakici.github.io/github-jobs-app-reactjs/)
+CANLI: [LINK](https://github-jobs-app-reactjs.vercel.app/)
 
 ### Neler kullandım / öğrendim 
 
